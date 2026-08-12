@@ -1,0 +1,6 @@
+{
+  "name": "Chess",
+  "description": "A clean and aesthetic Chess app with Bluetooth and local Wi-Fi multiplayer, offline pass-and-play, AI mode, move history, and customizable board themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
