@@ -54,15 +54,6 @@ gradle assembleDebug
 # app/build/outputs/apk/debug/app-debug.apk
 ```
 
----
-
-## 🚀 Releasing on GitHub
-
-To release your own versions on GitHub:
-1. **Push your code to GitHub** using the **"Export to GitHub"** button in Google AI Studio or git push.
-2. Go to your GitHub repository and click on **Releases > Draft a new release**.
-3. Create a release tag (e.g., `v1.0.0`), write a short description, and attach the compiled `app-debug.apk` file from `app/build/outputs/apk/debug/`.
-4. Click **Publish Release** so users can download the APK directly!
 
 ---
 
